@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2010\Projects\Fibonacci_Recursive\Fibonacci_Recursive\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\Fibonacci_Recursive\Fibonacci_Recursive\bin\Debug\Fibonacci_Recursive.exe
+c:\users\acer\documents\visual studio 2010\Projects\Fibonacci_Recursive\Fibonacci_Recursive\bin\Debug\Fibonacci_Recursive.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Fibonacci_Recursive\Fibonacci_Recursive\obj\x86\Debug\Fibonacci_Recursive.exe
+c:\users\acer\documents\visual studio 2010\Projects\Fibonacci_Recursive\Fibonacci_Recursive\obj\x86\Debug\Fibonacci_Recursive.pdb
